@@ -1,1 +1,1 @@
-React, Redux, MockedAPI, Reselect   // 22.04.2019
+React, Redux, MockedAPI, Reselect, Testing   // 22.04.2019
